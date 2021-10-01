@@ -2,7 +2,7 @@
 A tabuada usando o algoritmo WHILE(enquanto) no Portugol!
 
 
-programa
+programa // by Rehfeld13
 {
 	
 	funcao inicio()
